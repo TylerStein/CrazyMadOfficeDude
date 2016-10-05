@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyMadOfficeDude.CSharp.Plugins", "CrazyMadOfficeDude.CSharp.Plugins.csproj", "{1894D2C3-87D3-7822-615D-65AE22C2F27F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyMadOfficeDude.CSharp", "CrazyMadOfficeDude.CSharp.csproj", "{299D1584-1BFF-70E5-3CF9-4B4FA0B00A9C}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyMadOfficeDude.CSharp.Editor", "CrazyMadOfficeDude.CSharp.Editor.csproj", "{E03A8E81-62CA-21DA-A896-39D9039148AF}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{1894D2C3-87D3-7822-615D-65AE22C2F27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1894D2C3-87D3-7822-615D-65AE22C2F27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1894D2C3-87D3-7822-615D-65AE22C2F27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299D1584-1BFF-70E5-3CF9-4B4FA0B00A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299D1584-1BFF-70E5-3CF9-4B4FA0B00A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299D1584-1BFF-70E5-3CF9-4B4FA0B00A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299D1584-1BFF-70E5-3CF9-4B4FA0B00A9C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E03A8E81-62CA-21DA-A896-39D9039148AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E03A8E81-62CA-21DA-A896-39D9039148AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E03A8E81-62CA-21DA-A896-39D9039148AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
